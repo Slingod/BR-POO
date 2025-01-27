@@ -3,6 +3,7 @@ Bundler.require
 
 require_relative 'lib/game'
 require_relative 'lib/player'
+require_relative 'lib/human_player'
 
 puts "------------------------------------------------"
 puts "|Bienvenue sur 'ILS VEULENT TOUS MA POO' !      |"
